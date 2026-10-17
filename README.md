@@ -11,7 +11,7 @@ divide [done]
 Number, Operator, Number, 
 create variables for each. [done]
 
-3. Create function 'operate', takes an operator and two numbers and calles one of the functions from #1.
+3. Create function 'operate', takes an operator and two numbers and calles one of the functions from #1. [done]
 
 4. create a basic html calculator with buttons for each digit and operator including =. Add a button for clear.
 
