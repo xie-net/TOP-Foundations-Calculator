@@ -9,7 +9,7 @@ divide [done]
 
 2. A calulcator operations has 
 Number, Operator, Number, 
-create variables for each.
+create variables for each. [done]
 
 3. Create function 'operate', takes an operator and two numbers and calles one of the functions from #1.
 
