@@ -2,10 +2,10 @@
 TOP Project: Calculator Assignment
 
 1. Create functions for
-Add
-Subtract
-multiply
-divide
+Add [done]
+Subtract [done]
+multiply [done]
+divide [done]
 
 2. A calulcator operations has 
 Number, Operator, Number, 
