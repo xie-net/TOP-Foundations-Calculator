@@ -1,0 +1,16 @@
+/* .button-row, .operator, #calculator #display .equals .clear */
+
+.calculator {
+    width: 800px;
+    height: 800px;
+    display:flex;
+}
+
+#display {
+    font-size: 50px;
+}
+
+.button-row button {
+    padding: 20px;
+    font-size: 24px;
+}

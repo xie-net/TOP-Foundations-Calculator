@@ -46,7 +46,7 @@ buttons.addEventListener("click", (event) => {
           }
 
         } else if (event.target.classList.contains("clear")) {
-            display.textContent = "";
+            display.textContent = "0";
             num1 = "";
             num2 = "";
             operator = "";
