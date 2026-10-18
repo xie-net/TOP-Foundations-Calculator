@@ -15,7 +15,7 @@ create variables for each. [done]
 
 4. create a basic html calculator with buttons for each digit and operator including =. Add a button for clear. [done]
 
-5. Create functions that update your number variable when the number buttons are clicked.
+5. Create functions that update your number variable when the number buttons are clicked. [done]
 
 6. the Calculator should work. mame sure the functions for operating or calulcating work when using the buttons in the html. 
 

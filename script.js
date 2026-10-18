@@ -14,9 +14,20 @@ function division (num1, num2) {
     return num1 / num2;
 }
 
-let num1 = 0;
-let num2 = 0;
+let num1 = "";
+let num2 = "";
 let operator = '';
+
+const buttons = document.querySelector("#buttons");
+const display = document.querySelector("#display");
+
+buttons.addEventListener("click", (event) => {
+    if (event.target.tagName === "BUTTON") {
+        num1 += event.target.textContent;
+        display.textContent = num1;
+    }
+})
+
 
 function operate (num1, operator, num2) {
     switch (operator) {
@@ -37,6 +48,7 @@ function operate (num1, operator, num2) {
 
     };
 }
+
 
 
 // console.log(operate(10, '+', 5)); // 15
